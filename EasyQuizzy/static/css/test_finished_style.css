@@ -1,0 +1,56 @@
+/*Petar Milojević 2021/0336*/
+body
+{
+    background-color: rgb(199, 170, 214);
+}
+
+
+.card
+{
+    text-align: center;
+    background-color: rgb(199, 170, 214);
+    border-color:rgb(199, 170, 214); ;
+}
+
+.card >img
+{
+    align-self: center;
+    width:20%;
+    height:20%;
+    padding-top: 10%;
+    background-color: rgb(199, 170, 214);
+
+}
+
+.card-body > p
+{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.card-body > h4
+{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.card-body > a
+{
+    color: black;
+    font-weight: bold;
+    font-size: 130%;
+}
+
+
+#buttonPlay{
+    padding: 30px;margin-left:80px;margin-top:30px;
+    font-size: 30px;
+    background-color: rgb(133, 86, 158);
+    border-radius: 15%;
+    border-width: 7px;
+    border-color: white;
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: x-large;
+}
